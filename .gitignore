@@ -16,7 +16,7 @@ debug.log
 # System files
 .DS_Store
 Thumbs.db
-import-dev-data.js
+*import-dev-data.js
 
 # IDE specific files
 .idea
