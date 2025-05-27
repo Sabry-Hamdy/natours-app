@@ -1,0 +1,36 @@
+# Node.js specific
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.*
+*.env
+
+# Debug and log files
+*.log
+debug.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional: if using a process manager like pm2
+.pm2
+
+# Optional: if using a coverage tool
+coverage/
+
+# Optional: if using a build process (e.g., with webpack or similar)
+dist/
+build/
+
+# IDE specific files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
