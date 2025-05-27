@@ -16,16 +16,7 @@ debug.log
 # System files
 .DS_Store
 Thumbs.db
-
-# Optional: if using a process manager like pm2
-.pm2
-
-# Optional: if using a coverage tool
-coverage/
-
-# Optional: if using a build process (e.g., with webpack or similar)
-dist/
-build/
+import-dev-data.js
 
 # IDE specific files
 .idea
@@ -34,3 +25,7 @@ build/
 *.njsproj
 *.sln
 *.swp
+
+
+
+
